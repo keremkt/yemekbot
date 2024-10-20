@@ -1,5 +1,5 @@
-import puppeteer from  'puppeteer'
-
+import puppeteer from 'puppeteer';
+import  fs from  'fs';
 
 // Function to launch the browser and create a new page
 async function launchBrowser() {
@@ -23,12 +23,57 @@ async function selectOption(page, selector, value) {
 async function waitForContentLoad(timeInMs) {
   await new Promise(resolve => setTimeout(resolve, timeInMs));
 }
+// Function to extract and parse data from elements with specific classes (card, cardStyle)
+async function extractDataFromElements(page, classSelector) {
+  const mealsData = [];
 
-// Function to extract elements with specific classes (card, cardStyle)
-async function getElementsWithClass(page, classSelector) {
-  return await page.$$eval(classSelector, elements => 
-    elements.map(el => el.outerHTML) // Extract and return the outerHTML of each element
+  const cardData = await page.$$eval(classSelector, elements => 
+    elements.map(el => {
+      const dateText = el.querySelector('.card-header .date')?.innerText.trim();
+      const meals = Array.from(el.querySelectorAll('.card-body p')).map(p => p.innerText.trim());
+      const calories = el.querySelector('.card-body .text-end')?.innerText.trim();
+      const likeCount = el.querySelector('#likeCount_0')?.innerText.trim() || '0';
+      const dislikeCount = el.querySelector('#disLikeCount_0')?.innerText.trim() || '0';
+      const commentCount = el.querySelector('#commCount_0')?.innerText.trim() || '0';
+
+      // Split the date into day, month, and day of the week
+      const [day, month, year ,dayOfWeek] = dateText.split(' ');
+
+      return {
+        day,
+        month,
+        year,
+        dayOfWeek,
+        meals: [...meals, calories], // Append calories to meals
+        calories,
+        likeCount,
+        dislikeCount,
+        commentCount,
+      };
+    })
   );
+
+  // Construct the final mealsData array with the desired structure
+  cardData.forEach(item => {
+    mealsData.push({
+      day: item.day,
+      month: item.month,
+      dayOfWeek: item.dayOfWeek,
+      meals: item.meals,
+      calories: item.calories,
+      likeCount: item.likeCount,
+      dislikeCount: item.dislikeCount,
+      commentCount: item.commentCount,
+    });
+  });
+
+  return mealsData;
+}
+
+// Function to save data to a JSON file
+function saveToJsonFile(data, filename) {
+  fs.writeFileSync(filename, JSON.stringify(data, null, 2), 'utf-8');
+  console.log(`Data saved to ${filename}`);
 }
 
 // Main function to orchestrate the process
@@ -37,6 +82,7 @@ async function scrapePage() {
   const selectDropdown = '#navbarDropdown';
   const optionValue = 'Ankara';
   const classSelectors = '.card, .cardStyle'; // Classes to search for
+  const outputFilename = 'mealsData.json'; // Name of the output JSON file
 
   // Launch the browser and open a new page
   const { browser, page } = await launchBrowser();
@@ -51,11 +97,11 @@ async function scrapePage() {
     // Wait for the content to load (if dynamic)
     await waitForContentLoad(2000); // Adjust the time as necessary
 
-    // Get div elements with classes "card" and "cardStyle"
-    const cardElements = await getElementsWithClass(page, classSelectors);
+    // Extract and parse data from the card elements
+    const mealsData = await extractDataFromElements(page, classSelectors);
 
-    // Log the card elements' HTML
-    console.log(cardElements);
+    // Save the extracted data to a JSON file
+    saveToJsonFile(mealsData, outputFilename);
   } catch (error) {
     console.error('Error occurred:', error);
   } finally {
