@@ -1,5 +1,6 @@
 import puppeteer from 'puppeteer';
-import  fs from  'fs';
+import fs from 'fs';
+import { log } from 'console';
 
 // Function to launch the browser and create a new page
 async function launchBrowser() {
@@ -23,6 +24,7 @@ async function selectOption(page, selector, value) {
 async function waitForContentLoad(timeInMs) {
   await new Promise(resolve => setTimeout(resolve, timeInMs));
 }
+
 // Function to extract and parse data from elements with specific classes (card, cardStyle)
 async function extractDataFromElements(page, classSelector) {
   const mealsData = [];
@@ -73,14 +75,24 @@ async function extractDataFromElements(page, classSelector) {
 // Function to save data to a JSON file
 function saveToJsonFile(data, filename) {
   fs.writeFileSync(filename, JSON.stringify(data, null, 2), 'utf-8');
+  
   console.log(`Data saved to ${filename}`);
+}
+
+// Function to log all options from a dropdown
+async function logDropdownOptions(page, selector) {
+  await page.waitForSelector(selector);
+  const options = await page.$$eval(`${selector} option`, options => 
+    options.map(option => option.textContent.trim())
+  );
+  console.log('Dropdown options:', options);
+  return options;
 }
 
 // Main function to orchestrate the process
 async function scrapePage() {
   const url = 'https://kykyemek.com/'; // Replace with your target URL
   const selectDropdown = '#navbarDropdown';
-  const optionValue = 'Ankara';
   const classSelectors = '.card, .cardStyle'; // Classes to search for
   const outputFilename = 'mealsData.json'; // Name of the output JSON file
 
@@ -91,17 +103,34 @@ async function scrapePage() {
     // Navigate to the page
     await navigateToPage(page, url);
 
-    // Select the "Ankara" option from the dropdown
-    await selectOption(page, selectDropdown, optionValue);
+    // Log all options from the dropdown and get the list of cities
+    const cities = await logDropdownOptions(page, selectDropdown);
 
-    // Wait for the content to load (if dynamic)
-    await waitForContentLoad(2000); // Adjust the time as necessary
+    // Initialize an empty array to store all cities' data
+    const allCitiesData = [];
 
-    // Extract and parse data from the card elements
-    const mealsData = await extractDataFromElements(page, classSelectors);
+    // Iterate through each city and extract data
+    for (const city of cities) {
+      console.log(`Processing city: ${city}`);
+
+      // Select the city from the dropdown
+      await selectOption(page, selectDropdown, city);
+
+      // Wait for the content to load (if dynamic)
+      await waitForContentLoad(2000); // Adjust the time as necessary
+
+      // Extract and parse data from the card elements
+      const cityData = await extractDataFromElements(page, classSelectors);
+
+      // Add the city data to the allCitiesData array
+      allCitiesData.push({
+        city,
+        data: cityData
+      });
+    }
 
     // Save the extracted data to a JSON file
-    saveToJsonFile(mealsData, outputFilename);
+    saveToJsonFile(allCitiesData, outputFilename);
   } catch (error) {
     console.error('Error occurred:', error);
   } finally {

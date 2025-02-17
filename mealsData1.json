@@ -1,0 +1,562 @@
+[
+  {
+    "day": "1",
+    "month": "Şubat",
+    "dayOfWeek": "Cumartesi",
+    "meals": [
+      "Karışık Kızartma",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Tahinli Pekmez",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "1",
+    "commentCount": "0"
+  },
+  {
+    "day": "2",
+    "month": "Şubat",
+    "dayOfWeek": "Pazar",
+    "meals": [
+      "Menemen",
+      "Sade Poğaça",
+      "Labne Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Reçel Çeşitleri",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "3",
+    "month": "Şubat",
+    "dayOfWeek": "Pazartesi",
+    "meals": [
+      "Patatesli Börek",
+      "Haşlanmış Yumurta",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "4",
+    "month": "Şubat",
+    "dayOfWeek": "Salı",
+    "meals": [
+      "Kaşarlı Omlet",
+      "Simit",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "5",
+    "month": "Şubat",
+    "dayOfWeek": "Çarşamba",
+    "meals": [
+      "Patates Kızartması",
+      "Haşlanmış Yumurta",
+      "Krem Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Tahinli Pekmez",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "6",
+    "month": "Şubat",
+    "dayOfWeek": "Perşembe",
+    "meals": [
+      "Sade Omlet",
+      "Peynirli Milföy Böreği",
+      "Örgü/Çeçil Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "7",
+    "month": "Şubat",
+    "dayOfWeek": "Cuma",
+    "meals": [
+      "Dere Otlu Poğaça",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Bal+Tereyağ",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "8",
+    "month": "Şubat",
+    "dayOfWeek": "Cumartesi",
+    "meals": [
+      "Patatesli Yumurta",
+      "Kakaolu Kek",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "9",
+    "month": "Şubat",
+    "dayOfWeek": "Pazar",
+    "meals": [
+      "Karışık Pizza",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Reçel Çeşitleri",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "10",
+    "month": "Şubat",
+    "dayOfWeek": "Pazartesi",
+    "meals": [
+      "Sucuklu Yumurta",
+      "Zeytinli Açma",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Helva",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "11",
+    "month": "Şubat",
+    "dayOfWeek": "Salı",
+    "meals": [
+      "Patates Kavurması veya Patates Salatası",
+      "Haşlanmış Yumurta",
+      "Örgü/Çeçil Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Reçel Çeşitleri",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "12",
+    "month": "Şubat",
+    "dayOfWeek": "Çarşamba",
+    "meals": [
+      "Peynirli Omlet",
+      "Sade Poğaça",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "13",
+    "month": "Şubat",
+    "dayOfWeek": "Perşembe",
+    "meals": [
+      "Sosis Kokteyl(Salçalı veya Kızartma)",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Meyve",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "14",
+    "month": "Şubat",
+    "dayOfWeek": "Cuma",
+    "meals": [
+      "Kaşarlı Omlet",
+      "Patates Kroket",
+      "Labne Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "15",
+    "month": "Şubat",
+    "dayOfWeek": "Cumartesi",
+    "meals": [
+      "Patates Kızartması",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Tahinli Pekmez",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "16",
+    "month": "Şubat",
+    "dayOfWeek": "Pazar",
+    "meals": [
+      "Sade Omlet",
+      "Çikolatalı Milföy Börek",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "17",
+    "month": "Şubat",
+    "dayOfWeek": "Pazartesi",
+    "meals": [
+      "Simit",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Bal+Tereyağ",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "18",
+    "month": "Şubat",
+    "dayOfWeek": "Salı",
+    "meals": [
+      "Patatesli Yumurta",
+      "Dere Otlu Poğaça",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "19",
+    "month": "Şubat",
+    "dayOfWeek": "Çarşamba",
+    "meals": [
+      "Peynirli Börek",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "20",
+    "month": "Şubat",
+    "dayOfWeek": "Perşembe",
+    "meals": [
+      "Sucuklu Yumurta",
+      "Sade Açma",
+      "Krem Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Helva",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "21",
+    "month": "Şubat",
+    "dayOfWeek": "Cuma",
+    "meals": [
+      "Patates Kızartması",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Reçel Çeşitleri",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "22",
+    "month": "Şubat",
+    "dayOfWeek": "Cumartesi",
+    "meals": [
+      "Peynirli Omlet",
+      "Mozaik Kek",
+      "Örgü/Çeçil Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "23",
+    "month": "Şubat",
+    "dayOfWeek": "Pazar",
+    "meals": [
+      "Karışık Kızartma",
+      "Haşlanmış Yumurta",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "24",
+    "month": "Şubat",
+    "dayOfWeek": "Pazartesi",
+    "meals": [
+      "Sade Omlet",
+      "Dere Otlu Poğaça",
+      "Kaşar Peyniri",
+      "Siyah/Yeşil Zeytin",
+      "Mevsim Sebzeleri Söğüş",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "25",
+    "month": "Şubat",
+    "dayOfWeek": "Salı",
+    "meals": [
+      "Karışık Pizza",
+      "Haşlanmış Yumurta",
+      "Labne Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Reçel Çeşitleri",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "26",
+    "month": "Şubat",
+    "dayOfWeek": "Çarşamba",
+    "meals": [
+      "Kaşarlı Omlet",
+      "Çikolatalı Milföy Börek",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Meyve",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "27",
+    "month": "Şubat",
+    "dayOfWeek": "Perşembe",
+    "meals": [
+      "Patates Kızartması",
+      "Haşlanmış Yumurta",
+      "Örgü/Çeçil Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Sürülebilir Çikolata",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  },
+  {
+    "day": "28",
+    "month": "Şubat",
+    "dayOfWeek": "Cuma",
+    "meals": [
+      "Menemen",
+      "Simit",
+      "Beyaz Peynir",
+      "Siyah/Yeşil Zeytin",
+      "Tahinli Pekmez",
+      "500 ml Su",
+      "Çeyrek Ekmek",
+      "650-850 kalori",
+      "650-850 kalori"
+    ],
+    "calories": "650-850 kalori",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "commentCount": "0"
+  }
+]
