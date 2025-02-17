@@ -83,8 +83,8 @@ async function scrapePage() {
     const selectDropdown = '#navbarDropdown';
     const optionValue = 'Ankara';
     const classSelectors = '.card, .cardStyle'; // Classes to search for
-    const outputFilenameBreakfast = 'breakfastData.json'; // Name of the output JSON file for breakfast
-    const outputFilenameDinner = 'dinnerData.json'; // Name of the output JSON file for dinner
+    const outputFilenameBreakfast = 'food-data/breakfastData.json'; // Name of the output JSON file for breakfast
+    const outputFilenameDinner = 'food-data/dinnerData.json'; // Name of the output JSON file for dinner
   
     // Launch the browser and open a new page
     const { browser, page } = await launchBrowser();
