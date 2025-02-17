@@ -1,6 +1,6 @@
-import puppeteer from 'puppeteer'
-import fs from'fs'
-import {setTimeout} from "node:timers/promises";
+import puppeteer from 'puppeteer';
+import fs from 'fs';
+import { setTimeout } from 'node:timers/promises';
 
 // Function to launch the browser
 async function launchBrowser() {
@@ -77,66 +77,90 @@ function saveToJsonFile(data, filename) {
   console.log(`Data saved to ${filename}`);
 }
 
+// Function to log all options from a dropdown
+async function logDropdownOptions(page, selector) {
+  await page.waitForSelector(selector);
+  const options = await page.$$eval(`${selector} option`, options =>
+    options.map(option => option.textContent.trim())
+  );
+  console.log('Dropdown options:', options);
+  return options;
+}
+
 // Main function to orchestrate the process
 async function scrapePage() {
-    const url = 'https://kykyemek.com/'; // Replace with your target URL
-    const selectDropdown = '#navbarDropdown';
-    const optionValue = 'Ankara';
-    const classSelectors = '.card, .cardStyle'; // Classes to search for
-    const outputFilenameBreakfast = 'food-data/breakfastData.json'; // Name of the output JSON file for breakfast
-    const outputFilenameDinner = 'food-data/dinnerData.json'; // Name of the output JSON file for dinner
-  
-    // Launch the browser and open a new page
-    const { browser, page } = await launchBrowser();
-  
-    try {
-      // Navigate to the page
-      await navigateToPage(page, url);
-  
-      // Select the "Ankara" option from the dropdown
-      await selectOption(page, selectDropdown, optionValue);
-  
+  const url = 'https://kykyemek.com/'; // Replace with your target URL
+  const selectDropdown = '#navbarDropdown';
+  const classSelectors = '.card, .cardStyle'; // Classes to search for
+  const outputFilename = 'food-data/mealsData.json'; // Name of the output JSON file
+
+  // Launch the browser and open a new page
+  const { browser, page } = await launchBrowser();
+
+  try {
+    // Navigate to the page
+    await navigateToPage(page, url);
+
+    // Log all options from the dropdown and get the list of cities
+    const cities = await logDropdownOptions(page, selectDropdown);
+
+    // Initialize an empty array to store all cities' data
+    const allCitiesData = [];
+
+    // Iterate through each city and extract data
+    for (const city of cities) {
+      console.log(`Processing city: ${city}`);
+
+      // Select the city from the dropdown
+      await selectOption(page, selectDropdown, city);
+
       // Wait for the content to load (if dynamic)
-    //  await page.waitForTimeout(2000); // Adjust the time as necessary
-      await setTimeout(3000);
+      await setTimeout(2000); // Adjust the time as necessary
 
       // Extract and parse breakfast data from the card elements
       const breakfastData = await extractDataFromElements(page, classSelectors);
-      saveToJsonFile(breakfastData, outputFilenameBreakfast);
-  
+
       // Check if the dinner checkbox is checked
       let dinnerChecked = await isDinnerChecked(page);
-  
+
       if (!dinnerChecked) {
         // Click the checkbox to check it
-        
-        //await page.click('#checkboxitem');
-
         await page.evaluate(() => {
-            document.querySelector("#checkboxitem").parentElement.click();
-          });
+          document.querySelector("#checkboxitem").parentElement.click();
+        });
 
         // Wait for a moment to ensure the checkbox state is updated
-      //  await page.waitForTimeout(500); // Adjust the timeout if necessary
         await setTimeout(500);
-
       }
-  
+
       // Re-check if the dinner checkbox is now checked
       dinnerChecked = await isDinnerChecked(page);
-      
+
+      let dinnerData = [];
       if (dinnerChecked) {
         // Extract and parse dinner data from the card elements
-        const dinnerData = await extractDataFromElements(page, classSelectors);
-        saveToJsonFile(dinnerData, outputFilenameDinner);
+        dinnerData = await extractDataFromElements(page, classSelectors);
       } else {
         console.log('Dinner checkbox could not be checked. No dinner data will be extracted.');
       }
-    } catch (error) {
-      console.error('Error occurred:', error);
-    } finally {
-      // Close the browser
-      await browser.close();
+
+      // Add the city data to the allCitiesData array
+      allCitiesData.push({
+        city,
+        breakfastData,
+        dinnerData
+      });
     }
+
+    // Save the extracted data to a JSON file
+    saveToJsonFile(allCitiesData, outputFilename);
+  } catch (error) {
+    console.error('Error occurred:', error);
+  } finally {
+    // Close the browser
+    await browser.close();
   }
-scrapePage()
+}
+
+// Run the main function
+scrapePage();
