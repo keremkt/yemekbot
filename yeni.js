@@ -118,21 +118,29 @@ async function scrapePage() {
       // Wait for the content to load (if dynamic)
       await setTimeout(2000); // Adjust the time as necessary
 
-      // Extract and parse breakfast data from the card elements
-      const breakfastData = await extractDataFromElements(page, classSelectors);
-
       // Check if the dinner checkbox is checked
       let dinnerChecked = await isDinnerChecked(page);
 
-      if (!dinnerChecked) {
-        // Click the checkbox to check it
+      if (dinnerChecked) {
+        // Click the checkbox to uncheck it
         await page.evaluate(() => {
           document.querySelector("#checkboxitem").parentElement.click();
         });
 
         // Wait for a moment to ensure the checkbox state is updated
-        await setTimeout(500);
+        await setTimeout(2000); // Adjust the time as necessary
       }
+
+      // Extract and parse breakfast data from the card elements
+      const breakfastData = await extractDataFromElements(page, classSelectors);
+
+      // Click the checkbox to check it
+      await page.evaluate(() => {
+        document.querySelector("#checkboxitem").parentElement.click();
+      });
+
+      // Wait for a moment to ensure the checkbox state is updated
+      await setTimeout(2000); // Adjust the time as necessary
 
       // Re-check if the dinner checkbox is now checked
       dinnerChecked = await isDinnerChecked(page);
