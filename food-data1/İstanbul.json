@@ -1,0 +1,1263 @@
+{
+  "city": "İstanbul",
+  "breakfastData": [
+    {
+      "day": "1",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Etli sultan kebabı / Karışık Kızartma",
+        "Şehriyeli Pirinç Pilavı",
+        "Çoban Salata",
+        "Kıbrıs Tatlısı",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "6",
+      "dislikeCount": "2",
+      "commentCount": "10"
+    },
+    {
+      "day": "2",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Pideli Soslu Köfte / Karışık Sebze Graten",
+        "Makarna",
+        "Ayran",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "3",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Tavuk Fajita+Elma Dilim Patates / Taze Fasulye Yemeği",
+        "Sebzeli Bulgur Pilavı",
+        "Güllaç",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "4",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Hasanpaşa Köfte / Karışık Dolma+Yoğurt",
+        "Soslu Makarna",
+        "Çiğ Köfte(Marul+Limon)",
+        "Portakal",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "5",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Çiftlik Kebabı / Karnabahar Kızartması+Yoğurt",
+        "Şehriyeli Pirinç Pilavı",
+        "Karışık Salata",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "6",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Külbastı+Elma Dilim Patates / Bezelye Yemeği",
+        "Napoliten Soslu Makarna",
+        "Çikolatalı Yaş Pasta",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "7",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Izgara Köfte + Közlenmiş Biber-Domates / Nohut Yemeği",
+        "Bulgur Pilavı",
+        "Havuç Tarator",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "8",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Patlıcan Musakka / Patates Köftesi",
+        "Mısırlı Pirinç Pilavı",
+        "Cacık",
+        "Cevizli Baklava",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "9",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Kremalı Sebze Çorba",
+        "Tavuklu Kağıt Kebabı / Lahana Sarma",
+        "Cevizli Erişte",
+        "Puding",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "10",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Cennet Çorba",
+        "Çoban Kavurma + Patates Kızartması / Falafel Köfte+Yoğurt",
+        "Şehriyeli Bulgur Pilavı",
+        "Karnabahar Brokoli Salatası",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "11",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mısır Çorba",
+        "Çıtır Tavuk(Elma Dilim Patates ile) / Mücver + Yoğurt",
+        "Pirinç Pilavı",
+        "Ayran",
+        "Kadayıflı cevizli muhallebi",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "12",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Kaşarlı Köfte + Izgara Domates+Biber / Mevsim Türlü",
+        "Arpa Şehriye Pilavı",
+        "Kuru Fasulye Piyazı",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "13",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tel Şehriye Çorba",
+        "Beşamel Soslu tavuk / Taze Fasulye Yemeği",
+        "Soslu Makarna",
+        "Akdeniz Salata",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "14",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Köz Biber Çorba",
+        "Etli Kuru Fasulye / Şakşuka",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Halka/Tulumba Tatlısı",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "15",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Köfte+Söğüş / Nohut Tava",
+        "Fesleğen Soslu Makarna",
+        "Muz",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "16",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Etli Kağıt Kebabı / Karışık Sebze Graten",
+        "Bulgur Pilavı",
+        "Mozaik Pasta",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "17",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yüksük Çorba",
+        "Tavuklu Çökertme Kebabı / Patates Kavurma",
+        "Bahar Pilavı",
+        "Kuru Cacık",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "18",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Ekşili Köfte / Karnabahar Kızartması+Yoğurt",
+        "Soslu Makarna",
+        "Karışık Salata",
+        "Fıstıklı İrmik Helvası",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "19",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Brokoli Çorba",
+        "Tavuk Izgara+Elma Dilim Patates / Soslu Karışık Kızartma",
+        "Yeşil Mercimekli Bulgur Pilavı",
+        "Yoğurt",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "20",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Fırında Misket Köfteli Türlü / Kuru Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Çiğ Köfte(Marul+Limon)",
+        "Güllaç",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "21",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Soslu/Yoğurtlu Kıymalı Tirit Kebabı / Karışık Dolma+Yoğurt",
+        "Makarna",
+        "Karışık Salata",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "22",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Soslu ızgara köfte +domates + biber / Karışık Sebze Graten",
+        "Arpa Şehriye Pilavı",
+        "Limonlu Revani",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "23",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tel Şehriye Çorba",
+        "Tavuk Sote / Patates Yemeği",
+        "Bulgur Pilavı",
+        "Karnabahar Brokoli Salatası",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "24",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Cennet Çorba",
+        "Etli Kuru Fasulye / Şakşuka",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Trileçe",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "25",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Izgara+Elma Dilim Patates / Lahana Sarma",
+        "Fesleğen Soslu Makarna",
+        "Ayran",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "26",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Toyga Çorba",
+        "Buğu Kebabı / Bezelye Yemeği",
+        "Bulgur Pilavı",
+        "Karışık Kış Salata",
+        "Fıstıklı Kadayıf",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "27",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Çin Usulü Tavuk / Mevsim Türlü",
+        "Nohutlu Pirinç Pilavı",
+        "Cacık",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "28",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Brokoli Çorba",
+        "Soslu Tire Köfte / Taze Fasulye Yemeği",
+        "Mercimekli Bulgur Pilavı",
+        "Rus Salatası",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "29",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Çıtır Tavuk(Elma Dilim Patates ile) / Brokoli Yemeği",
+        "Köri Soslu Makarna",
+        "Ayva/Elma Kompostosu",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "30",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Köz Biber Çorba / Mercimek Çorba",
+        "Püreli Tas Kebabı / Nohut Tava",
+        "Şehriyeli Pirinç Pilavı",
+        "Cevizli Baklava",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "31",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba / Domates Çorba",
+        "Akçaabat Köfte+Patates Kızartması / Mücver",
+        "Napoliten Soslu Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    }
+  ],
+  "dinnerData": [
+    {
+      "day": "1",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Etli sultan kebabı / Karışık Kızartma",
+        "Şehriyeli Pirinç Pilavı",
+        "Çoban Salata",
+        "Kıbrıs Tatlısı",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "6",
+      "dislikeCount": "2",
+      "commentCount": "10"
+    },
+    {
+      "day": "2",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Pideli Soslu Köfte / Karışık Sebze Graten",
+        "Makarna",
+        "Ayran",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "3",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Tavuk Fajita+Elma Dilim Patates / Taze Fasulye Yemeği",
+        "Sebzeli Bulgur Pilavı",
+        "Güllaç",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "4",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Hasanpaşa Köfte / Karışık Dolma+Yoğurt",
+        "Soslu Makarna",
+        "Çiğ Köfte(Marul+Limon)",
+        "Portakal",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "5",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Çiftlik Kebabı / Karnabahar Kızartması+Yoğurt",
+        "Şehriyeli Pirinç Pilavı",
+        "Karışık Salata",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "6",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Külbastı+Elma Dilim Patates / Bezelye Yemeği",
+        "Napoliten Soslu Makarna",
+        "Çikolatalı Yaş Pasta",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "7",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Izgara Köfte + Közlenmiş Biber-Domates / Nohut Yemeği",
+        "Bulgur Pilavı",
+        "Havuç Tarator",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "8",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Patlıcan Musakka / Patates Köftesi",
+        "Mısırlı Pirinç Pilavı",
+        "Cacık",
+        "Cevizli Baklava",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "9",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Kremalı Sebze Çorba",
+        "Tavuklu Kağıt Kebabı / Lahana Sarma",
+        "Cevizli Erişte",
+        "Puding",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "10",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Cennet Çorba",
+        "Çoban Kavurma + Patates Kızartması / Falafel Köfte+Yoğurt",
+        "Şehriyeli Bulgur Pilavı",
+        "Karnabahar Brokoli Salatası",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "11",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mısır Çorba",
+        "Çıtır Tavuk(Elma Dilim Patates ile) / Mücver + Yoğurt",
+        "Pirinç Pilavı",
+        "Ayran",
+        "Kadayıflı cevizli muhallebi",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "12",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Kaşarlı Köfte + Izgara Domates+Biber / Mevsim Türlü",
+        "Arpa Şehriye Pilavı",
+        "Kuru Fasulye Piyazı",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "13",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tel Şehriye Çorba",
+        "Beşamel Soslu tavuk / Taze Fasulye Yemeği",
+        "Soslu Makarna",
+        "Akdeniz Salata",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "14",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Köz Biber Çorba",
+        "Etli Kuru Fasulye / Şakşuka",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Halka/Tulumba Tatlısı",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "15",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Köfte+Söğüş / Nohut Tava",
+        "Fesleğen Soslu Makarna",
+        "Muz",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "16",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Etli Kağıt Kebabı / Karışık Sebze Graten",
+        "Bulgur Pilavı",
+        "Mozaik Pasta",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "17",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yüksük Çorba",
+        "Tavuklu Çökertme Kebabı / Patates Kavurma",
+        "Bahar Pilavı",
+        "Kuru Cacık",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "18",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Ekşili Köfte / Karnabahar Kızartması+Yoğurt",
+        "Soslu Makarna",
+        "Karışık Salata",
+        "Fıstıklı İrmik Helvası",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "19",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Brokoli Çorba",
+        "Tavuk Izgara+Elma Dilim Patates / Soslu Karışık Kızartma",
+        "Yeşil Mercimekli Bulgur Pilavı",
+        "Yoğurt",
+        "Al Götür Menü 5: Çorba, Tavuk Burger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "20",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Fırında Misket Köfteli Türlü / Kuru Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Çiğ Köfte(Marul+Limon)",
+        "Güllaç",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "21",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Soslu/Yoğurtlu Kıymalı Tirit Kebabı / Karışık Dolma+Yoğurt",
+        "Makarna",
+        "Karışık Salata",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "22",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Soslu ızgara köfte +domates + biber / Karışık Sebze Graten",
+        "Arpa Şehriye Pilavı",
+        "Limonlu Revani",
+        "Al Götür Menü 7: Çorba, Köfteli Akdeniz Salata, Yoğurtlu Soslu Etsiz Mantı, Meyve, Baklava",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "23",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tel Şehriye Çorba",
+        "Tavuk Sote / Patates Yemeği",
+        "Bulgur Pilavı",
+        "Karnabahar Brokoli Salatası",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "24",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Cennet Çorba",
+        "Etli Kuru Fasulye / Şakşuka",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Trileçe",
+        "Al Götür Menü 4: Çorba, Adana Dürüm, Ayran, Salata, Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "25",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Izgara+Elma Dilim Patates / Lahana Sarma",
+        "Fesleğen Soslu Makarna",
+        "Ayran",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "26",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Toyga Çorba",
+        "Buğu Kebabı / Bezelye Yemeği",
+        "Bulgur Pilavı",
+        "Karışık Kış Salata",
+        "Fıstıklı Kadayıf",
+        "Al Götür Menü 1: Çorba, Et Tantuni Dürüm, Ayran, Salata, Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "27",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Çin Usulü Tavuk / Mevsim Türlü",
+        "Nohutlu Pirinç Pilavı",
+        "Cacık",
+        "Al Götür Menü 6: Çorba, Tavuklu Pilav, Ayran, Salata, Kadayıf",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "28",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Brokoli Çorba",
+        "Soslu Tire Köfte / Taze Fasulye Yemeği",
+        "Mercimekli Bulgur Pilavı",
+        "Rus Salatası",
+        "Al Götür Menü 2: Çorba, Hamburger, Ayran, Salata, Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "29",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Çıtır Tavuk(Elma Dilim Patates ile) / Brokoli Yemeği",
+        "Köri Soslu Makarna",
+        "Ayva/Elma Kompostosu",
+        "Al Götür Menü 3: Çorba, Tavuk Tantuni Dürüm, Ayran, Salata, Muhallebi",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "30",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Köz Biber Çorba / Mercimek Çorba",
+        "Püreli Tas Kebabı / Nohut Tava",
+        "Şehriyeli Pirinç Pilavı",
+        "Cevizli Baklava",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "31",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba / Domates Çorba",
+        "Akçaabat Köfte+Patates Kızartması / Mücver",
+        "Napoliten Soslu Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    }
+  ]
+}

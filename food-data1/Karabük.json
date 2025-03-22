@@ -1,0 +1,1203 @@
+{
+  "city": "Karabük",
+  "breakfastData": [
+    {
+      "day": "1",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Tas Kebabı / Taze Fasulye Yemeği",
+        "Bulgur Pilavı",
+        "Çoban Salata",
+        "Revani",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "2",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "İzmir Köfte / Karışık Kızartma",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "3",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Patates Oturtma / Ispanak Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Güllaç",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "4",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "Sulu Köfte / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Acılı Ezme",
+        "Sütlaç",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "5",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Etli Kuru Fasulye / Karışık Sebze Graten",
+        "Şehriyeli Pirinç Pilavı",
+        "Karışık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "6",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Köri Soslu Tavuk / Kabak Sandal",
+        "Spagetti",
+        "Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "7",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Çoban Kavurma / İmam Bayıldı",
+        "Bulgur Pilavı",
+        "Haydari",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "8",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Fajita / Karnabahar Graten",
+        "Pirinç Pilavı",
+        "Cacık",
+        "Baklava(Cevizli-Fındıklı)",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "9",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Keşkek Çorba",
+        "Etli Nohut Yemeği / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "10",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Bahçevan Kebabı / Taze Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Çoban Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "11",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Mantarlı Tavuk Sote / Bezelye Yemeği",
+        "Bulgur Pilavı",
+        "Pembe Sultan",
+        "Supangle",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "12",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "İzmir Köfte / Mücver",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "13",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tavuk Fajita / Karışık Sebze Graten",
+        "Arpa Şehriye Pilavı",
+        "Karışık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "14",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Çoban Kavurma / Patlıcan Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Şekerpare",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "15",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Sebze Çorba",
+        "Şinitzel / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Kısır",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "16",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Et Sote / Bamya Yemeği",
+        "Bulgur Pilavı",
+        "Revani",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "17",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Kavurma / Ispanak Yemeği",
+        "Pirinç Pilavı",
+        "Tarator",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "18",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Sulu Köfte / Mücver",
+        "Bulgur Pilavı",
+        "Bahçe Salata",
+        "İrmik Helvası",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "19",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Beşamel Soslu tavuk / Pırasa Yemeği",
+        "Sade-Salçalı Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "20",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "Mengen Musakka / Taze Fasulye Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Acılı Ezme",
+        "Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "21",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tas Kebabı / Karışık Sebze Graten",
+        "Salçalı Bulgur Pilavı",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "22",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Sebze Çorba",
+        "Soslu Izgara Köfte / Bezelye Yemeği",
+        "Pirinç Pilavı",
+        "Lokma-Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "23",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Beşamel Soslu tavuk / Karışık Dolma",
+        "Spagetti",
+        "Kaşık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "24",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Etli Nohut Yemeği / Karışık Kızartma",
+        "Bulgur Pilavı",
+        "Turşu",
+        "Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "25",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Şinitzel / Kabak Kalye",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "26",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Sultan Kebabı / Ispanak Yemeği",
+        "Pirinç Pilavı",
+        "Ege Salata",
+        "Baklava(Cevizli-Fındıklı)",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "27",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tavuk Fajita / Karışık Kızartma",
+        "Bulgur Pilavı",
+        "Cacık",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "28",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Kremalı Mantar Çorba",
+        "Adana-Urfa Kebap / Taze Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "29",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Çıtır Tavuk / Karnabahar Graten",
+        "Spagetti",
+        "Akdeniz Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "30",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Çoban Kavurma / Patlıcan Yemeği",
+        "Şehriyeli Bulgur Pilavı",
+        "Bisküvili Pasta",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "31",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Kavurma / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    }
+  ],
+  "dinnerData": [
+    {
+      "day": "1",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Tas Kebabı / Taze Fasulye Yemeği",
+        "Bulgur Pilavı",
+        "Çoban Salata",
+        "Revani",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "2",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "İzmir Köfte / Karışık Kızartma",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "3",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Patates Oturtma / Ispanak Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Güllaç",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "4",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "Sulu Köfte / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Acılı Ezme",
+        "Sütlaç",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "5",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Etli Kuru Fasulye / Karışık Sebze Graten",
+        "Şehriyeli Pirinç Pilavı",
+        "Karışık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "6",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Köri Soslu Tavuk / Kabak Sandal",
+        "Spagetti",
+        "Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "7",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Çoban Kavurma / İmam Bayıldı",
+        "Bulgur Pilavı",
+        "Haydari",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "8",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Fajita / Karnabahar Graten",
+        "Pirinç Pilavı",
+        "Cacık",
+        "Baklava(Cevizli-Fındıklı)",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "9",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Keşkek Çorba",
+        "Etli Nohut Yemeği / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "10",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Bahçevan Kebabı / Taze Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Çoban Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "11",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Mantarlı Tavuk Sote / Bezelye Yemeği",
+        "Bulgur Pilavı",
+        "Pembe Sultan",
+        "Supangle",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "12",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "İzmir Köfte / Mücver",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "13",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tavuk Fajita / Karışık Sebze Graten",
+        "Arpa Şehriye Pilavı",
+        "Karışık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "14",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Çoban Kavurma / Patlıcan Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Turşu",
+        "Şekerpare",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "15",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Sebze Çorba",
+        "Şinitzel / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Kısır",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "16",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Et Sote / Bamya Yemeği",
+        "Bulgur Pilavı",
+        "Revani",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "17",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Tavuk Kavurma / Ispanak Yemeği",
+        "Pirinç Pilavı",
+        "Tarator",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "18",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Sulu Köfte / Mücver",
+        "Bulgur Pilavı",
+        "Bahçe Salata",
+        "İrmik Helvası",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "19",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Beşamel Soslu tavuk / Pırasa Yemeği",
+        "Sade-Salçalı Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "20",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tutmaç Çorba",
+        "Mengen Musakka / Taze Fasulye Yemeği",
+        "Şehriyeli Pirinç Pilavı",
+        "Acılı Ezme",
+        "Puding",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "21",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tas Kebabı / Karışık Sebze Graten",
+        "Salçalı Bulgur Pilavı",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "22",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Sebze Çorba",
+        "Soslu Izgara Köfte / Bezelye Yemeği",
+        "Pirinç Pilavı",
+        "Lokma-Tulumba Tatlısı",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "23",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Beşamel Soslu tavuk / Karışık Dolma",
+        "Spagetti",
+        "Kaşık Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "24",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Domates Çorba",
+        "Etli Nohut Yemeği / Karışık Kızartma",
+        "Bulgur Pilavı",
+        "Turşu",
+        "Browni",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "25",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Şinitzel / Kabak Kalye",
+        "Sade-Salçalı Makarna",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "26",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Mercimek Çorba",
+        "Sultan Kebabı / Ispanak Yemeği",
+        "Pirinç Pilavı",
+        "Ege Salata",
+        "Baklava(Cevizli-Fındıklı)",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "27",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Şehriye Çorba",
+        "Tavuk Fajita / Karışık Kızartma",
+        "Bulgur Pilavı",
+        "Cacık",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "28",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Kremalı Mantar Çorba",
+        "Adana-Urfa Kebap / Taze Fasulye Yemeği",
+        "Pirinç Pilavı",
+        "Ayran",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "29",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Yayla Çorba",
+        "Çıtır Tavuk / Karnabahar Graten",
+        "Spagetti",
+        "Akdeniz Salata",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "30",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Tarhana Çorba",
+        "Çoban Kavurma / Patlıcan Yemeği",
+        "Şehriyeli Bulgur Pilavı",
+        "Bisküvili Pasta",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    },
+    {
+      "day": "31",
+      "month": "Mart",
+      "dayOfWeek": "2025",
+      "meals": [
+        "Ezogelin Çorba",
+        "Tavuk Kavurma / Karışık Dolma",
+        "Sade-Salçalı Makarna",
+        "Yoğurt",
+        "500 ml Su",
+        "Çeyrek Ekmek",
+        "1100-1500 kalori",
+        "1100-1500 kalori"
+      ],
+      "calories": "1100-1500 kalori",
+      "likeCount": "0",
+      "dislikeCount": "0",
+      "commentCount": "0"
+    }
+  ]
+}

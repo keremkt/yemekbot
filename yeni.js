@@ -1,6 +1,7 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 import { setTimeout } from 'node:timers/promises';
+import path from 'path';
 
 // Function to launch the browser
 async function launchBrowser() {
@@ -73,6 +74,10 @@ async function extractDataFromElements(page, classSelector) {
 
 // Function to save data to a JSON file
 function saveToJsonFile(data, filename) {
+  const dir = path.dirname(filename);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
   fs.writeFileSync(filename, JSON.stringify(data, null, 2), 'utf-8');
   console.log(`Data saved to ${filename}`);
 }
@@ -92,7 +97,6 @@ async function scrapePage() {
   const url = 'https://kykyemek.com/'; // Replace with your target URL
   const selectDropdown = '#navbarDropdown';
   const classSelectors = '.card, .cardStyle'; // Classes to search for
-  const outputFilename = 'food-data1/mealsData.json'; // Name of the output JSON file
 
   // Launch the browser and open a new page
   const { browser, page } = await launchBrowser();
@@ -103,9 +107,6 @@ async function scrapePage() {
 
     // Log all options from the dropdown and get the list of cities
     const cities = await logDropdownOptions(page, selectDropdown);
-
-    // Initialize an empty array to store all cities' data
-    const allCitiesData = [];
 
     // Iterate through each city and extract data
     for (const city of cities) {
@@ -144,16 +145,15 @@ async function scrapePage() {
         console.log('Dinner checkbox could not be checked. No dinner data will be extracted.');
       }
 
-      // Add the city data to the allCitiesData array
-      allCitiesData.push({
+      // Save the city data to a separate JSON file
+      const cityData = {
         city,
         breakfastData,
         dinnerData
-      });
+      };
+      const outputFilename = `food-data1/${city}.json`;
+      saveToJsonFile(cityData, outputFilename);
     }
-
-    // Save the extracted data to a JSON file
-    saveToJsonFile(allCitiesData, outputFilename);
   } catch (error) {
     console.error('Error occurred:', error);
   } finally {
